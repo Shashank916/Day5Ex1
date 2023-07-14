@@ -1,0 +1,8 @@
+D:\Day-5\JaggedArray\JaggedArray\bin\Debug\JaggedArray.exe.config
+D:\Day-5\JaggedArray\JaggedArray\bin\Debug\JaggedArray.exe
+D:\Day-5\JaggedArray\JaggedArray\bin\Debug\JaggedArray.pdb
+D:\Day-5\JaggedArray\JaggedArray\obj\Debug\JaggedArray.csproj.AssemblyReference.cache
+D:\Day-5\JaggedArray\JaggedArray\obj\Debug\JaggedArray.csproj.SuggestedBindingRedirects.cache
+D:\Day-5\JaggedArray\JaggedArray\obj\Debug\JaggedArray.csproj.CoreCompileInputs.cache
+D:\Day-5\JaggedArray\JaggedArray\obj\Debug\JaggedArray.exe
+D:\Day-5\JaggedArray\JaggedArray\obj\Debug\JaggedArray.pdb
